@@ -21,3 +21,19 @@ php artisan serve
 ```
 
 ## 🔑 بيانات الدخول
+Email: admin@erp.com
+Password: password
+
+## 📡 API
+POST /api/register
+POST /api/login
+GET  /api/products
+POST /api/sales
+GET  /api/accounting/accounts
+GET  /api/ai/dashboard
+
+## 🛠 التقنيات
+- Laravel 11
+- MySQL
+- Laravel Sanctum
+- PHP 8.2
